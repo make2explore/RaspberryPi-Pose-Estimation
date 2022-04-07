@@ -7,7 +7,7 @@
 <br>  
 
 **Prerequisites**  
-- Installation of OpenCV for source                    🔗  [https://bit.ly/3xbB3Jk]
+- Installation of OpenCV from source                    🔗  [https://bit.ly/3xbB3Jk]
 - Tuneup your Raspberry Pi for Vision based projects - ▶️  [https://youtu.be/00c2GTpRaU8]  
 
 <br>
